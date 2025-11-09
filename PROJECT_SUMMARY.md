@@ -361,5 +361,5 @@ The project exceeds the basic requirements by including:
 
 ---
 
-Built with ❤️ for Vibe Commerce
+Built with  for Vibe Commerce
 
