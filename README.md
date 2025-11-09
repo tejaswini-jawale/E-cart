@@ -283,4 +283,4 @@ Repository: [https://github.com/tejaswini-jawale/ecart](https://github.com/tejas
 
 ---
 
-Made with ❤️ using React & Node.js
+Made with  using React & Node.js
